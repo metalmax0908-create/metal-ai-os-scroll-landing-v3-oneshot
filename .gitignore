@@ -13,3 +13,4 @@ artifacts/
 # ignore generic mp4 but allow the product hero
 *.mp4
 !assets/video/hero-prerender-oneshot.mp4
+.vercel
