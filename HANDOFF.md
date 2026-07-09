@@ -81,3 +81,14 @@ artifacts/target-vision/   # 仅保留目标图
 - 把已删 bridge / sky A 拼回去  
 - 改 `slides.js` 文案（无指令）  
 - 改 v2 目录（本仓是 v3-oneshot，与 v2 分离）
+
+## Deploy
+
+| 项 | URL |
+|----|-----|
+| GitHub | https://github.com/metalmax0908-create/metal-ai-os-scroll-landing-v3-oneshot |
+| Vercel Preview | https://metal-ai-os-scroll-landing-v3-oneshot-k2s896fp9.vercel.app |
+| Vercel Production alias | https://metal-ai-os-scroll-landing-v3-onesh.vercel.app |
+| Dashboard | https://vercel.com/maxmet-s-projectsa/metal-ai-os-scroll-landing-v3-oneshot |
+
+Push `main` 会触发 GitHub 连接部署（若已开启）。本地 Preview：`vercel deploy --yes`
