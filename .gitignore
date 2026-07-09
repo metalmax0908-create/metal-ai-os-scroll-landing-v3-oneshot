@@ -1,0 +1,15 @@
+node_modules/
+.DS_Store
+.vercel/
+.env
+.env.*
+*.log
+
+# local-only / heavy experiments
+artifacts/
+*.mov
+*.webm
+
+# ignore generic mp4 but allow the product hero
+*.mp4
+!assets/video/hero-prerender-oneshot.mp4
