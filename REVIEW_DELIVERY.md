@@ -6,11 +6,10 @@ Delivery snapshot only. No copy / hero / design-direction changes in this pass.
 
 | Item | Value |
 |------|--------|
-| **当前 commit hash (main HEAD)** | `4494f0c75584bbf2c5943b4264778ae0b4be2c2b` |
-| **Short** | `4494f0c` |
-| **Branch** | `main` (pushed to `origin/main`) |
-| **Review Mode 功能 commit** | `49c7fd8faccbd7eaad7320bd4922a1ec31c859f9` |
-| **Vercel 部署对应** | `49c7fd8`（Review Mode 代码；本文件为后续 delivery 记录） |
+| **当前 commit hash（Review Mode 功能，已上 main / 已部署）** | `49c7fd8faccbd7eaad7320bd4922a1ec31c859f9` |
+| **Short** | `49c7fd8` |
+| **Branch** | `main`（`origin/main` 已含此 commit 及后续 delivery 文档） |
+| **Message** | Add Review Mode for remote design review and contact sheet |
 
 ## Guardrails
 
